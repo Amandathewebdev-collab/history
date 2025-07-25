@@ -1,0 +1,19 @@
+*{
+   background-color: black;
+}
+h1{
+   color: azure;
+}
+p{
+   color: azure;
+}
+.chessImg{
+   height: 20rem;
+   object-fit: cover;
+}
+.moonImg{
+   height: 30rem;
+}
+h2{
+   color: azure;
+}
